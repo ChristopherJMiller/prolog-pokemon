@@ -4,7 +4,7 @@ This project utilizes Prolog's powerful predicate matching to form strong pokemo
 
 A team is considered "strong" if all types are resisted by the team. As in, for a given attack type, your team would have a pokemon that would result in that attack being "not very effective" or "no effect".
 
-The tool also produces only ["legal type combindations"](https://bulbapedia.bulbagarden.net/wiki/List_of_type_combinations_by_abundance)
+The tool also produces only ["legal type combinations"](https://bulbapedia.bulbagarden.net/wiki/List_of_type_combinations_by_abundance)
 
 ## Requirements
 
